@@ -19,7 +19,6 @@ public class ObjectCoppy {
 		bookArray2[i].setAuthor(bookArray1[i].getAuthor());
 		
 		
-		
 		bookArray1[0].setBookName("나목");
 		bookArray1[0].setAuthor("박완서");
 		
